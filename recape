@@ -1,0 +1,6 @@
+1-langchain  
+2- intialize llm ---> init_chat_model(ll_name,model_provider=
+                                      temp, max_tokens, max_retries, timeout)
+3- create agent ---> create_agent(llm, system_prompt, checkpointer)
+checkpointer---> memorysaver
+4-multimodal input
